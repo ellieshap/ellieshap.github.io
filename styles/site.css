@@ -1,0 +1,42 @@
+h1 {
+  color: rgb(105, 153, 255);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#why {
+  color: darkred;
+}
+p {
+  color: black;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+li {
+  color: purple;
+}
+.italic-text {
+  font-style: italic;
+}
+.green {
+  color: green;
+}
+.bold-text {
+  font-weight: bold;
+  font-size: 115%;
+}
+.cool {
+  font-stretch: Roboto;
+  color: crimson;
+}
+.centered {
+  display: block;
+  margin: auto;
+}
+#container {
+  display: grid;
+  grid-template-rows: 200px 200px;
+  grid-template-columns: 200px 200px;
+}
